@@ -5,4 +5,4 @@ I adapted this game to be accessible with head-pointer and eye-gaze technology. 
 
 ## Sources
 
-I used the [Phaser 3](https://github.com/photonstorm/phaser) library along with a few example from their [website](https://phaser.io/examples) to create this web app.
+I used the [Phaser 3](https://github.com/photonstorm/phaser) library along with a few examples from their [website](https://phaser.io/examples) to create this web app.
